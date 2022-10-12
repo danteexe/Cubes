@@ -16,5 +16,4 @@ class CUBES_API UAbilityBase : public UObject
 
 public:
 	UWorld* GetWorld() const override;
-	
 };
