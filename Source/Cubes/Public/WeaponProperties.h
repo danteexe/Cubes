@@ -176,5 +176,5 @@ private:
     UPROPERTY(EditAnywhere, Category = "Weapon Properties|Properties|Fire", meta = (AllowPrivateAccess = "true"))
     UParticleSystem* MuzzleEffect;
 
-    3
+    
 };
